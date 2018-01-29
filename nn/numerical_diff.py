@@ -1,8 +1,5 @@
-import os
-import sys
 import matplotlib.pyplot as plt
 import numpy as np
-sys.path.append(os.pardir)
 from functions import numerical_diff
 
 
